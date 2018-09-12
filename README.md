@@ -6,4 +6,6 @@
 
 - Once you do, you'll see a webpage where you select your name from a list. 
 
+- Modified README.md - by Anu    
+
 - That's it. 
